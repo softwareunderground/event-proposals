@@ -57,7 +57,6 @@ Self-declared interested:
 * Brian 'BS' Burnham, Aberdeen
 * Lisa Stright, Colorado State
 * Brian Romans, VT
-* Steve Hubbard?, U of C
 * John Leeman, Leeman Geophysical
 * Brendon Hall, Enthought
 * Joe Kington, Planet Labs
@@ -70,14 +69,17 @@ Self-declared interested:
 Ideas, not asked:
 
 * John Howell, Aberdeen
-* Zoltan Sylvester — Matt has asked him.
-* Chris Jackson
+* Gary Nichols, RPS Energy (ex-Nautilus, ex-RHBNC)
+* Zoltan Sylvester — UT Austin
+* John Thurmond, Equinor, Houston
+* Steve Hubbard, U of C
+* Chris Jackson, Imperial
 * Clare Bond, Aberdeen
 * Cari Johnson, U of Utah
 * Brian Summa (http://www.cs.tulane.edu/~bsumma/)
 * Valerio Pascusci (https://www.sci.utah.edu/people/pascucci.html)
 * Zane Jobe, and his crew at CSM
-* Callan Bentley?
+* Callan Bentley, Carleton (GigaPan guru)
 
 Perhaps 12–16 people total for this first effort? Up to 20 'should be fine'. 
 
