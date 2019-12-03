@@ -40,8 +40,10 @@ The event is also a hackathon to figure out how to run the event. So we need to 
 * GigaPan?
 * laser scanning (big scale)
 * Laser scanning, hand specimens
-* GR? Sonic? (+drone?)
-* Calibrated colorimeter (+drone?)
+* Handheld GR
+* Porosimeter
+* Schmidt hammer, [for example, RockSchmidt, Type L](https://www.proceq.com/compare/schmidt-hammers/) and [this one](https://www.globalgilson.com/rock-schmidt-hammer-type-n)
+* Calibrated colorimeter, [for example](https://www.amazon.co.uk/dp/B07543YNG4) and [this one](https://sensing.konicaminolta.us/technologies/chroma-meters-colorimeters/)
 * Porosimeter, permeameter
 * XRD/XRF? (drone with dentist's drill)
 * GPR?
